@@ -16,13 +16,15 @@ module.exports = function(Resultadoanalisis) {
               } else {
                 documento.document.date = date;
                 documento.document.idPrincipal = idPrincipal;
-                documento.document.sentiment = res.body.sentences[0].sentiment;
+                console.log(res.body);
+                documento.document.sentences = res.body.sentences;
+               // console.log(documento);
                 Resultadoanalisis.create(documento, function(err, resultado) {
                     if(err) {
                         return cb(err);
                     } else {
                         console.log('documento: ', documento);
-                        return cb(null, res.body.sentences);
+                        return cb(null, resultado);
                     }
                 });   
               }
