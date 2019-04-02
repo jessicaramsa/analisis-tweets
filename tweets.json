@@ -1,0 +1,83 @@
+{
+    "principales":[
+        {
+            "texto": "Esto es una prueba de un tweet principal",
+            "fecha": "2019-03-30T19:29:39.664Z"
+        },{
+            "texto": "Conoce nuestro nuevo servicio...",
+            "fecha": "2019-03-30T19:29:39.664Z"
+        },{
+            "texto": "Nuestro servicio ofrece beneficios del marketing",
+            "fecha": "2019-03-30T19:29:39.664Z"
+        },{
+            "texto": "Nueva herramienta detectada",
+            "fecha": "2019-03-30T19:29:39.664Z"
+        }
+    ]
+}
+
+{
+    "secundarios":[{
+            "document":{
+                "type":"PLAIN_TEXT",
+                "content": "¿Quieres saber cómo hacer una aplicación para Android Wear? Te lo explicamos.",
+                "date": "20 Marzo 2019"
+            }
+        },{
+            "document":{
+                "type":"PLAIN_TEXT",
+                "content": "jajaja :D como les encanta trolear cuando alguno no se conecta :P jajaja",
+                "date": "20 Marzo 2019"
+            }
+        },{
+            "document":{
+                "type":"PLAIN_TEXT",
+                "content": "Yo me la juego con Federico, porque no quiere un pueblo manso para administrar, sino una ciudadanía educada que proponga.",
+                "date": "20 Marzo 2019"
+            }
+        },{
+            "document":{
+                "type":"PLAIN_TEXT",
+                "content":"¿Por qué el ingeniero eléctrico llama a todo el mundo cuando esta estresado?   ..-Porque en una conexión en serie, la tensión se divide.",
+                "date": "20 Marzo 2019"
+            }
+        },{
+            "document":{
+                "type":"PLAIN_TEXT",
+                "content":"La Agencia Espacial Europea decide prolongar la misión de la sonda Rosetta #Ciencia.",
+                "date": "20 Marzo 2019"
+            }
+        },{
+            "document":{
+                "type":"PLAIN_TEXT",
+                "content":" No debo quejarme por tener que leer más de 100 páginas semanales, son poquitas. No llevo mate :D",
+                "date": "20 Marzo 2019"
+            }
+        },{
+            "document":{
+                "type":"PLAIN_TEXT",
+                "content":"Layout, la app de Instagram para hacer bonitos collages.",
+                "date": "20 Marzo 2019"
+            }
+        },{
+            "document":{
+                "type":"PLAIN_TEXT",
+                "content":"El Twitter Mi Desestresante :D",
+                "date": "20 Marzo 2019"
+            }
+        },{
+            "document":{
+                "type":"PLAIN_TEXT",
+                "content":" De bronca los iba a bloquiar a todos jaja !! Pero me acorde que la pase mejor que ellos llendo a jugar y se me paso jaja :p",
+                "date": "20 Marzo 2019"
+            }
+        },{
+            "document":{
+                "type":"PLAIN_TEXT",
+                "content":"La #UAM en Bruselas: Jornada de Puertas Abiertas para la presentación de ÓPERA.",
+                "date": "20 Marzo 2019"
+            }
+        }
+    ]
+}
+
